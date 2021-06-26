@@ -1,0 +1,15 @@
+{
+  "name": "waxom",
+  "version": "1.0.0",
+  "description": "Static Site with HTML5, CSS3, Bootstrap4",
+  "main": "index.js",
+  "scripts": {
+    "deploy": "gh-pages -d dist"
+  },
+  "author": "Sarvar Sharapov",
+  "license": "MIT",
+  "homepage": "https://sarvar883.github.io/waxom",
+  "dependencies": {
+    "gh-pages": "^3.2.3"
+  }
+}
